@@ -7,19 +7,34 @@
 - Bruno e Bispo: Majoritariamente HTML
 - Samuel: Pesquisa
 
-# Estrutura:
-## Homepage:
+# Estrutura
+## Homepage
 - Vai ser composta por uma lista de páginas que o usuário poderá acessar, com conteúdo resumido em cima.
-- Etimologia.
+- Etimologia do nome do país.
 - No fim da página inicial, vai ter o nome do grupo e o que cada um fez.
 
-## História:
+## História
 ### Basicamente a formação do país.
 - Pré Dinastias (A época em que existiam 3 reinos distintos)
 - Dinastias
 - Pré-Guerra
 - Pós-Guerra
 
-## Cultura:
+## Cultura
+### Cultura Sul-Coreana
+- Arte
+- Arquitetura
+- Literatura e Música
+- Cinema
+- Gastronomia
+- Esportes
+
 
 ## Geografia e Demográfica
+
+## Infraestrutura
+
+## Idioma (parte favorita do Marcus)
+
+## Notas do Grupo
+### Fatos interessantes e divertidos sobre o país, coisas com o que nos relacionamos na Coréia do Sul.
