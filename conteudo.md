@@ -31,10 +31,23 @@
 
 
 ## Geografia e Demográfica
+- Biodiversidade
+- Problemas ambientais
+- Composição Étnica
+- Urbanização
 
 ## Infraestrutura
+- Educação
+- Energia
+- Ciência
+- Segurança
+- Saúde
+- Transporte
 
 ## Idioma (parte favorita do Marcus)
+- Alfabeto
+- Sentenças Básica
+
 
 ## Notas do Grupo
 ### Fatos interessantes e divertidos sobre o país, coisas com o que nos relacionamos na Coréia do Sul.
