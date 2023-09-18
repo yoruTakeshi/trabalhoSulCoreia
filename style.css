@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Crimson Pro', serif;
+}
+
+
+body{
+	background-color: whitesmoke;
+}
+
+.nav h1{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	text-shadow: 0 0 12px white ;
+	padding: 4vh;
+	margin-bottom: 2rem;
+	padding-bottom: 3rem;
+	padding-top: 3rem;
+	font-size: 4rem;
+	background-image: url("/images/title.jpg");
+	background-size: 110%;
+	background-repeat: no-repeat;
+	background-position: 0rem;
+	border-bottom: 3px solid black;
+}
+
+.imgcont{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-left: 4vh;
+	padding-right: 4vh;
+	margin-bottom: 12vh
+}
+
+.imgcont img{
+	margin: 6vh;
+}
+
+.gInfo{
+	display: flexbox;
+	margin-bottom: 12vh;
+	padding-left: 4vh;
+	padding-right: 4vh;
+	text-align: right;
+}
+
+.nav nav{
+	display: border-box;
+	justify-content: right;
+	align-items: center;
+	text-align: center;
+	margin-bottom: 2rem;
+	font-size: 120%;
+}
+
+.nav a{
+	text-decoration: none;
+	color: #4A5EEA;
+}
+
+.etim{
+	display: border-box;
+	margin-top: 1rem;
+	padding-left: 4vh;
+	padding-right: 4vh;
+	justify-content: center;
+	align-self: center;
+}
+
+font{
+	margin-top: 4vh;
+	padding-left: 4vh;
+	padding-right: 4vh;
+	margin-bottom: 2rem;
+}
+
+.group p{
+	font-size: 120%;
+	display: flex;
+	justify-items: ;
+	text-justify: center;
+	text-align: center;
+	border-top: 3px solid black;
+	text-shadow: 0vh 1vh 4px black;
+	color: white;
+	background-color: black;
+	background-repeat: no-repeat;
+	margin-top: 4vh;
+}
+

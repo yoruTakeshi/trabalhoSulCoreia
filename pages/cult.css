@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Crimson Pro', serif;
+}
+
+body{
+	padding-top: 10px;
+}
+
+img{
+	display: flex;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	justify-self: center;
+}
+
+.minwha img{
+	display: flex;
+	width: 50%;
+	height: auto;
+}
+
+.ceramica img{
+	display: flex;
+	width: 35%;
+	height: auto;
+}
+
+.buda img{
+	display: flex;
+	width: 50%;
+	height: auto;
+}
+
+.wtf img{
+	display: flex;
+	width: 40%;
+	height: auto;
+}
+
+.parasita img{
+	display: flex;
+	width: 25%;
+	height: auto;
+}
+
+.busan img{
+	display: flex;
+	width: 40%;
+	height: auto;
+}
