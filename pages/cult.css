@@ -7,15 +7,17 @@
 	font-family: 'Crimson Pro', serif;
 }
 
+
+
 body{
 	padding-top: 10px;
 }
 
 img{
-	display: flex;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
-	justify-self: center;
+	justify-content: center;
+	border-radius: 3vh;
 }
 
 .minwha img{
@@ -50,6 +52,92 @@ img{
 
 .busan img{
 	display: flex;
-	width: 40%;
+	width: 25%;
 	height: auto;
+}
+
+.mestre img{
+	display: flex;
+	width: 25%;
+	height: auto;
+}
+
+.fes img{
+	display: flex;
+	width: 35%;
+	height: auto;
+}
+
+.oldboy img{
+	display: flex;
+	width: 25%;
+	height: auto;
+}
+
+.gastronomia img{
+	display: flex;
+	width: 15%;
+	height: auto;
+}
+
+.imgtaekwondo img{
+	display: flex;
+	width: 25%;
+	height: auto;
+}
+
+.imgbasebol img{
+	display: flex;
+	width: 25%;
+	height: auto;
+}
+
+.imgfut img{
+	display: flex;
+	width: 30%;
+	height: auto;
+}
+
+.imginverno img{
+	display: flex;
+	width: 25%;
+	height: auto;
+}
+
+.imggolfe img{
+	display: flex;
+	width: 25%;
+	height: auto;
+}
+
+.imgcombate img{
+	display: flex;
+	width: 25%;
+	height: auto;
+}
+
+.imgarquearia img{
+	display: flex;
+	width: 25%;
+	height: auto;
+}
+
+.imgesports img{
+	display: flex;
+	width: 25%;
+	height: auto;
+}
+
+.voltar{
+	text-decoration: none;
+	color: #4A5EEA;
+}
+
+div{
+	padding: 3vh;
+	margin-top: 2vh;
+}
+
+h1{
+	font-size: 128px;
 }

@@ -204,20 +204,28 @@ Peixe e Frutos do Mar: Devido à sua localização próxima ao mar, a Coreia do 
 O esporte desempenha um papel significativo na sociedade sul-coreana e tem uma história rica e diversificada. A Coreia do Sul é conhecida por sua paixão por esportes, e várias modalidades têm uma base de fãs dedicada. Aqui estão alguns dos esportes mais populares e notáveis na Coreia do Sul:
 
 Taekwondo: O Taekwondo é um dos esportes mais reconhecidos da Coreia do Sul e tem suas raízes no país. É uma arte marcial que se concentra em chutes rápidos e poderosos, além de técnicas de mão. O Taekwondo tornou-se um esporte olímpico em 2000 e continua a ser uma das modalidades mais praticadas em todo o mundo.
+(imagem)
 
 Basebol: O basebol é um esporte popular na Coreia do Sul e tem uma liga profissional chamada KBO League. Os times de basebol sul-coreanos têm uma base de fãs apaixonada, e os jogos atraem grandes multidões.
+(imagem)
 
 Futebol: O futebol é outro esporte amplamente praticado e seguido na Coreia do Sul. A seleção nacional de futebol sul-coreana tem uma história notável em competições internacionais e tem participado da Copa do Mundo da FIFA em várias ocasiões.
+(imagem)
 
 Esportes de Inverno: Com montanhas e invernos rigorosos, a Coreia do Sul tem uma cena crescente de esportes de inverno. O país sediou os Jogos Olímpicos de Inverno de 2018 em Pyeongchang e tem desenvolvido atletas de destaque em esqui e snowboard.
+(imagem)
 
 Golfe: O golfe é um esporte popular entre a elite sul-coreana, e o país produziu vários golfistas talentosos que competem em nível internacional, como Park In-bee e Kim Sei-young.
+(imagem)
 
 Esportes de Combate: Além do Taekwondo, a Coreia do Sul tem uma forte tradição em outros esportes de combate, como judô, luta livre e boxe.
+(imagem)
 
 Esportes Tradicionais Coreanos: Alguns esportes tradicionais coreanos ainda são praticados, como ssireum (luta livre coreana) e archery (arquearia). Esses esportes têm raízes históricas profundas na cultura do país.
+(Imagem)
 
 Esportes Eletrônicos (Esports): Os esports também são muito populares na Coreia do Sul. O país é lar de muitas equipes e jogadores de renome mundial em jogos como StarCraft, League of Legends e Overwatch. As competições de esports na Coreia do Sul atraem grandes audiências e patrocínios.
+(imagem)
 
 A Coreia do Sul também tem uma forte tradição de competir em eventos esportivos internacionais, como as Olimpíadas e os Jogos Asiáticos. O governo sul-coreano tem investido em infraestrutura esportiva e programas de desenvolvimento de atletas para promover o esporte no país.
 

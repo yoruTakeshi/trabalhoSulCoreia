@@ -17,3 +17,21 @@ img{
 	width: 30%;
 	height: auto;
 }
+
+.dinastias img{
+  display: flex;
+	width: 30%;
+	height: auto;
+}
+
+.pre_guerra img{
+  display: flex;
+	width: 30%;
+	height: auto;
+}
+
+.Guerra img{
+  display: flex;
+	width: 30%;
+	height: auto;
+}
