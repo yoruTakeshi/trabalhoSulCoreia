@@ -39,11 +39,24 @@ p{
 }
 
 .big{
-	size: 20%;
+	width: 80%;
+	height: auto;
 }
 
 a{
+	padding-bottom: 1vh;
 	text-decoration: none;
+	box-sizing: flexbox;
 	color: #4A5EEA;
-	text-align: center;
+	justify-self: center;
+	align-self: center;
+}
+
+img{
+	display: flex;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	justify-content: center;
+	align-items: center;
+	border-radius: 3vh;
 }

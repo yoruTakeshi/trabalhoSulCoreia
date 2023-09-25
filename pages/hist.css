@@ -79,7 +79,9 @@ p{
 
 a{
 	text-decoration: none;
+	box-sizing: flex;
 	color: #4A5EEA;
-	text-align: center;
+	justify-self: center;
+	align-self: center;
 }
 
