@@ -3,21 +3,21 @@
 *{
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
+	box-sizing: flex;
 	font-family: 'Crimson Pro', serif;
 }
 
-
-
-body{
-	padding-top: 10px;
-}
-
 img{
+	display: flex;
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 	justify-content: center;
+	align-items: center;
 	border-radius: 3vh;
+}
+
+iframe{
+	margin-top: 1rem;
 }
 
 .minwha img{
@@ -44,9 +44,15 @@ img{
 	height: auto;
 }
 
+.sky img{
+	display: flex;
+	width: auto;
+	height: 15%;
+}
+
 .parasita img{
 	display: flex;
-	width: 25%;
+	width: 20%;
 	height: auto;
 }
 
@@ -139,5 +145,27 @@ div{
 }
 
 h1{
+	display: flex;
 	font-size: 128px;
+	text-align: center;
+	text-shadow: 0 0 12px white ;
+	padding: 4vh;
+	margin-bottom: 2rem;
+	padding-bottom: 3rem;
+	padding-top: 3rem;
+	background-image: url("/images/title.jpg");
+	background-size: 110%;
+	background-repeat: no-repeat;
+	background-position: 0rem;
+	border-bottom: 3px solid black;
+}
+
+h2{
+	font-size: 48px;
+	text-align: center;
+	margin-bottom: 2vh;
+}
+
+p{
+	padding-bottom: 1vh;
 }

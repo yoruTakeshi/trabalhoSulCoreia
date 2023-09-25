@@ -10,3 +10,8 @@ whitesmoke - Branco Acinzentado
 
 Site básico.
 Animações fluidas.
+
+## A fazer:
+
+CSS DAS PAGINAS
+COLOCAR O HINO DA COREIA DO SUL

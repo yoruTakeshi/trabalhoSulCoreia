@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,400;1,500;1,600&display=swap');
 
-
 *{
 	margin: 0;
 	padding: 0;
-	box-sizing: border-box;
+	box-sizing: flex;
 	font-family: 'Crimson Pro', serif;
 }
 
@@ -35,45 +34,23 @@ div{
 	margin-top: 2vh;
 }
 
-img{
-	display: flex;
-	margin-top: 1rem;
-	margin-bottom: 1rem;
-	justify-self: center;
-	border-radius: 3vh;
-}
-
-.predinastia img{
-  display: flex;
-	width: 30%;
-	height: auto;
-}
-
-.dinastias img{
-  display: flex;
-	width: 30%;
-	height: auto;
-}
-
-.pre_guerra img{
-  display: flex;
-	width: 30%;
-	height: auto;
-}
-
-.Guerra img{
-  display: flex;
-	width: 30%;
-	height: auto;
-}
-
-.pos_guerra img{
-  display: flex;
-	width: 30%;
-	height: auto;
-}
-
 p{
 	padding-bottom: 1vh;
+}
+
+table{
+	border-collapse: collapse;
+  width: 80%;
+  margin: 20px auto;
+}
+
+th, td {
+	border: 1px solid gray;
+	padding: 2vh;
+	text-align: left;
+}
+
+th {
+  background-color: #f2f2f2; 
 }
 

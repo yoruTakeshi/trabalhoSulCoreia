@@ -83,7 +83,6 @@ font{
 .group p{
 	font-size: 120%;
 	display: flex;
-	justify-items: ;
 	text-justify: center;
 	text-align: center;
 	border-top: 3px solid black;
@@ -92,5 +91,9 @@ font{
 	background-color: black;
 	background-repeat: no-repeat;
 	margin-top: 4vh;
+}
+
+p{
+	padding-bottom: 1vh;
 }
 
