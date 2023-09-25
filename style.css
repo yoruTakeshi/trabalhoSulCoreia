@@ -35,6 +35,15 @@ body{
 	align-items: center;
 	padding-left: 4vh;
 	padding-right: 4vh;
+	margin-bottom: 8vh
+}
+
+.hino{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding-left: 4vh;
+	padding-right: 4vh;
 	margin-bottom: 12vh
 }
 
