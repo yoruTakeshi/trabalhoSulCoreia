@@ -38,6 +38,10 @@ p, li{
 	padding-bottom: 1vh;
 }
 
+li{
+	padding-left: 0.5vh;
+}
+
 img{
 	display: flex;
 	width: 20%;
